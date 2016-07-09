@@ -468,7 +468,7 @@ Model('User').find({}})
 ```
 
 ## 5. 扩展阅读
-[mongoose](http://www.nodeclass.com/api/mongoose.html)
+[mongoose](http://www.nodeclass.com/api/mongoose.html);
 
 
 
